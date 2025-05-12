@@ -1,4 +1,6 @@
 package com.subtree.module1
 
-class Module1MainActivity {
+import androidx.activity.ComponentActivity
+
+class Module1MainActivity : ComponentActivity(){
 }
