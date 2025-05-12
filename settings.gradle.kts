@@ -22,9 +22,9 @@ dependencyResolutionManagement {
 rootProject.name = "Keka"
 include(":app")
 
-//include(":core")
-//include(":core:module1")
-//include(":core:module2")
+include(":core")
+include(":core:module1")
+include(":core:module2")
 
 
  
